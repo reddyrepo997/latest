@@ -1,2 +1,7 @@
 Devops Engineer
+<<<<<<< HEAD
 And linux administration
+=======
+
+Reddy123
+>>>>>>> new3
