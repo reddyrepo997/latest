@@ -4,4 +4,9 @@ And linux administration
 =======
 
 Reddy123
+<<<<<<< HEAD
+>>>>>>> new3
+=======
+
+Bangalore
 >>>>>>> new3
